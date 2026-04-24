@@ -1,7 +1,8 @@
-# mapreduce-log-and-employee-analytics
+
 # 📊 Hadoop MapReduce: Data Processing & Analysis
 
 ## 📌 Project Overview
+--------------------------
 
 This project implements two real-world data processing tasks using **Hadoop MapReduce**:
 
@@ -13,6 +14,7 @@ The goal is to demonstrate scalable data processing, custom partitioning, and ef
 ---
 
 ## 🎯 Objectives
+------------------
 
 * Process large datasets using distributed computing
 * Implement custom partitioning strategies
@@ -22,7 +24,8 @@ The goal is to demonstrate scalable data processing, custom partitioning, and ef
 
 ---
 
-# 🧩 Task 1: Department-Based Partitioning
+# 🧩 Task 1: Department-Based Partitioning:
+--------------------------------------------
 
 ## 📌 Description
 
